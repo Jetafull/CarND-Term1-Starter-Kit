@@ -17,6 +17,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
         unzip \
         libgtk2.0-0 \
         git \
+        vim \
 	tcl-dev \
 	tk-dev \	
         && \
